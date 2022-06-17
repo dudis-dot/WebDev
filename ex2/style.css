@@ -1,0 +1,68 @@
+html{
+    font-family: 'Shadows Into Ligth', cursive;
+    font-family: 'Dacing Script', cursive;
+    font-family: 'Caveat', cursive;
+    text-align:center;
+}
+.atalho{
+    border:solid;
+    background-color:cyan;
+    border-radius:4em;
+
+    padding:0.5em;
+    margin:1em;
+
+    display: inline-block;
+    vertical-align: top;
+}
+.atalho:hover{
+    background-image:url("https://acegif.com/wp-content/gifs/fire-51.gif");
+}
+.voltar{
+    color:palevioletred;
+    font-size:2em;
+}
+body{
+    background-image:url("https://undsgn.com/wp-content/uploads/2018/04/ltotbngnzzu.jpg");
+    background-size:800px 500px;
+    background-attachment:fixed;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+.filmes_fav,.animes_rec,.musicas_fav{
+    color:cyan;
+    font-size: 2em;
+    font-family: 'Shadows Into Ligth', cursive;
+}
+p{
+    font-family: 'Caveat', cursive;
+    color:red;
+    font-size:2em;
+}
+h1{
+    color:blue;
+    font-size:4em; 
+}
+h2{
+    color:cyan;
+    font-size:4em;
+}
+li{
+  background-color:black;
+  background-size:700px;
+  margin: 4em;
+  margin-right: 10em;
+  margin-left: 10em;
+  border:solid;
+  border-color:blue;
+  border-radius:2em;
+  list-style-type:none;
+}
+li:hover {
+    background-color:#E03A2B;
+    
+}
+  
+a{
+    text-decoration:none;
+}
